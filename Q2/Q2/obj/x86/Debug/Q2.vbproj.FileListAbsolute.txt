@@ -1,0 +1,12 @@
+E:\VIT 2\2 SEM\VP\LB\VB_ASS2\Q2\Q2\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\VIT 2\2 SEM\VP\LB\VB_ASS2\Q2\Q2\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\VIT 2\2 SEM\VP\LB\VB_ASS2\Q2\Q2\obj\x86\Debug\Q2.vbproj.GenerateResource.Cache
+E:\VIT 2\2 SEM\VP\LB\VB_ASS2\Q2\Q2\bin\Debug\Q2.exe
+E:\VIT 2\2 SEM\VP\LB\VB_ASS2\Q2\Q2\bin\Debug\Q2.pdb
+E:\VIT 2\2 SEM\VP\LB\VB_ASS2\Q2\Q2\bin\Debug\Q2.xml
+E:\VIT 2\2 SEM\VP\LB\VB_ASS2\Q2\Q2\obj\x86\Debug\Q2.exe
+E:\VIT 2\2 SEM\VP\LB\VB_ASS2\Q2\Q2\obj\x86\Debug\Q2.xml
+E:\VIT 2\2 SEM\VP\LB\VB_ASS2\Q2\Q2\obj\x86\Debug\Q2.pdb
+\\Bavans-mbp\bavan ssd\Semester 4\VB_Lab\VB_ASS2\Q2\Q2\obj\x86\Debug\Q2.exe
+\\Bavans-mbp\bavan ssd\Semester 4\VB_Lab\VB_ASS2\Q2\Q2\obj\x86\Debug\Q2.xml
+\\Bavans-mbp\bavan ssd\Semester 4\VB_Lab\VB_ASS2\Q2\Q2\obj\x86\Debug\Q2.pdb
