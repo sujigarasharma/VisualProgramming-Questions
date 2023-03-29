@@ -1,4 +1,4 @@
-# VisualProgramming-1
+# VisualProgramming PracticeQuestions-1
 
 
 Q1)
